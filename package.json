@@ -1,6 +1,6 @@
 {
   "name": "file-schedule-delete",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Node.js file schedule delete function",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,10 @@
   "keywords": [
     "node.js"
   ],
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/EricCat/Node-File-Delete"
+  },
   "author": "Liu Wei",
   "license": "BSD",
   "engines": {
